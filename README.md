@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/weallblamewasif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/weallblamewasif/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/weallblamewasif/DSA/tree/master/0075-sort-colors) |
+| [0904-fruit-into-baskets](https://github.com/weallblamewasif/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/weallblamewasif/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/weallblamewasif/DSA/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/weallblamewasif/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
