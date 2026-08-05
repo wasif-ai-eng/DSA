@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/weallblamewasif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/weallblamewasif/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/weallblamewasif/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0088-merge-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/weallblamewasif/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/weallblamewasif/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/weallblamewasif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/weallblamewasif/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/weallblamewasif/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/weallblamewasif/DSA/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/weallblamewasif/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/weallblamewasif/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/weallblamewasif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/weallblamewasif/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/weallblamewasif/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
