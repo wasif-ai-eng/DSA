@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/weallblamewasif/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/weallblamewasif/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/weallblamewasif/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/weallblamewasif/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/weallblamewasif/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/weallblamewasif/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/weallblamewasif/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/weallblamewasif/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
